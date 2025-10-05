@@ -23,7 +23,7 @@ Here are some projects I’m proud of:
 
 ## 📊 GitHub Stats & Activity
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HetavP2&show_icons=true&theme=github_dark)](https://github.com/HetavP2)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HetavP2&show_icons=true&hide=stars,prs,issues,contribs&theme=github_dark)](https://github.com/HetavP2)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HetavP2&layout=compact&theme=github_dark)](https://github.com/HetavP2)
 
 ---
