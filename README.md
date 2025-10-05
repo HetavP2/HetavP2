@@ -35,4 +35,4 @@ Here are some projects I’m proud of:
 
 ---
 
-Thanks for dropping by! 👋  
+👋👋👋👋  
