@@ -14,10 +14,12 @@ Here are some projects I’m proud of:
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Younifind** | A platform to help users discover, manage, and share opportunities | Next.js |
-| **verifai** | Web app for content validation / fact checking | React |
-| **DiabetesPredictor.1** | ML model to predict diabetes onset | Python, tensorflow, scikit-learn |
-| **SchoolClubManager** | Web app to help students manage clubs | Flask |
+| **Younifind** | A platform to help users discover, manage, and share opportunities | Next.js, TypeScript, PostgreSQL |
+| **StockMarketAnalysis** | Real-time stock market data streaming and analytics pipeline | Apache Kafka, AWS EC2, S3, Glue, Athena, Python |
+| **SchoolClubManager** | Web application to help students manage school clubs | Flask, Python |
+| **BeaverBreach** | Tariff-impact analysis platform with AI-powered insights and reporting | Google Apps Script, Flask, pandas, Firebase, Gemini API, TailwindCSS |
+| **verifai** | Web app for content validation and fact checking using LLMs | React, Python, Flask |
+| **DiabetesPredictor.1** | Machine learning model to predict diabetes onset | Python, TensorFlow, scikit-learn |
 
 ---
 
