@@ -64,18 +64,14 @@ A full-stack web application for managing school clubs and applications. Include
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
-<div align="center">
+You can find my projects, experiments, and ongoing work here on GitHub.
 
-<img src="https://github-readme-stats.vercel.app/api?username=HetavP2&show_icons=true&hide=stars,issues,contribs&theme=github_dark&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetavP2&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-HetavP2-181717?style=flat-square&logo=github)](https://github.com/HetavP2)
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/hetav-patel/) · [GitHub](https://github.com/HetavP2)
+[LinkedIn](https://www.linkedin.com/in/hetav-patel/)
